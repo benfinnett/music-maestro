@@ -1,6 +1,4 @@
-# Name
-Music Maestro by Ben Finnett
-
+# Music Maestro by Ben Finnett
 ## Description
 Music Maestro is a music tutor application designed in assisting in the practice
 and development of musical performance. It uses a microphone input to recognise
