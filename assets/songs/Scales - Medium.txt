@@ -1,0 +1,9 @@
+tempo=90,cleff=treble,time_signature=4/4,key=C,notes=32|
+A5n1.000n,B5n1.000n,C5#1.000n,D5n1.000n|
+E5n1.000n,F5#1.000n,G5#1.000n,A6n1.000n|
+B5n1.000n,C5#1.000n,D5#1.000n,E5n1.000n|
+F5#1.000n,G5#1.000n,A6#1.000n,B6n1.000n|
+C5n1.000n,D5n1.000n,E5n1.000n,F5n1.000n|
+G5n1.000n,A6n1.000n,B6n1.000n,C6n1.000n|
+D5n1.000n,E5n1.000n,F5#1.000n,G5n1.000n|
+A6n1.000n,B6n1.000n,C6#1.000n,D6n1.000n
